@@ -8,4 +8,4 @@ group: navigation
 
 # Die automatisch erzeugte Map
 
-Ein Link auf unsere [Map](http://144.76.123.62/)
+Ein Link auf unsere periodische aktualiserte [Map](http://144.76.123.62/)
