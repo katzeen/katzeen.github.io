@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Hallo Tab About"
-description: ""
+title: "About"
+description: "Beschreibung"
 group: navigation
 ---
 {% include JB/setup %}
