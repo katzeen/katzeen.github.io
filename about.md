@@ -14,3 +14,6 @@ Aufzählung:
 1. Foo
 2. Bar
 3. Too
+
+Ein Link auf unsere Map
+[Dieser Link](http://example.net/)
