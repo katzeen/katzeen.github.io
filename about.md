@@ -15,5 +15,4 @@ Aufzählung:
 2. Bar
 3. Too
 
-Ein Link auf unsere Map
-[Dieser Link](http://example.net/)
+Ein Link auf unsere [Map](http://example.net/)
