@@ -7,3 +7,4 @@ tagline: Der neue Katzeen Minecraftserver
 
 ![cow](images/cow.png)
 
+![cow](images/cow2.png)
