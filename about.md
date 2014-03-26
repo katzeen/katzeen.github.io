@@ -17,9 +17,3 @@ Aufzählung:
 
 Ein Link auf unsere [Map](http://example.net/)
 
-First Header | Second Header | Third Header
------------- | ------------- | ------------
-Content Cell | Content Cell  | Content Cell
-Content Cell | Content Cell  | Content Cella
-
-![Auge](images/auge.png)
