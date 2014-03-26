@@ -5,7 +5,6 @@ tagline: Der neue Katzeen Minecraftserver
 ---
 {% include JB/setup %}
 
-<<<<<<< HEAD
 Der Server ist zu finden unter der Adresse:
 
 Spielmodus ist:
@@ -18,5 +17,3 @@ folgende Regeln gelten:
 
 ![cow](images/cow.png)
 
-=======
->>>>>>> FETCH_HEAD
