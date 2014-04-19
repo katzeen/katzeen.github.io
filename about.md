@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "Regeln"
 description: "Beschreibung"
 group: navigation
 ---
