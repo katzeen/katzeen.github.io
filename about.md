@@ -6,16 +6,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-# Überschrift 1
-## Unterschrift 2
-
-Aufzählung:
-
-1. Foo
-2. Bar
-3. Too
-
-Ein Link auf unsere [Map](http://example.net/)
 
 ##Herzlich Wilkommen
 ## auf der Seite des:
@@ -23,11 +13,11 @@ Ein Link auf unsere [Map](http://example.net/)
                                 
                    
                               Regeln
-diese seite ist meine este also bitte nicht meckern 
+Dies ist meine erste Seite, also bitte nicht meckern 
 
 also kommen wir jetzt zu den Regeln:
 
- 1. höre auf die admistratoeren 
+1. höre auf die Admistratoeren 
  
 2. mögt Katzen und auch Katzeen
  
