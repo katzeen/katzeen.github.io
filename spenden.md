@@ -4,9 +4,8 @@ title: "Spenden"
 description: "Spenden"
 group: navigation
 ---
-{% include JB/setup %}
+{% include JB/setup %}               
+##Spenden! Spenden! Spenden!
 
-# Die automatisch erzeugte Map
-
-Ein Link auf unsere periodische aktualiserte [Map](http://144.76.123.62/)
-![Alternativer Text](/images/map.png "Optionaler Titel")
+      um ränge zu erhalten könnt ihr einen gewissen 
+      Betrag in Serverkasse zahlen.  
