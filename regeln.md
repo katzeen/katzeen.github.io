@@ -26,3 +26,4 @@ also kommen wir jetzt zu den Regeln:
 4. seit nett zu anderen spielern
 5. keine Beleidinugen
 
+6. keine Hacks und Cheats sonst Tempban
