@@ -17,7 +17,7 @@ Dies ist meine erste Seite, also bitte nicht meckern
 
 also kommen wir jetzt zu den Regeln:
 
-1. höre auf die Admistratoeren 
+1. höre auf die Administratoren 
  
 2. mögt Katzen und auch Katzeen
  
