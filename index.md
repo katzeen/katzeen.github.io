@@ -6,7 +6,7 @@ group: navigation
 ---
 {% include JB/setup %}
 
-                Der Server ist unter dieser Adresse zu finden:
+                Der super Server ist unter dieser Adresse zu finden:
                 
                 
                 
